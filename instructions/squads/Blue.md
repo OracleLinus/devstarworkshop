@@ -2,7 +2,7 @@
 
 1. Now it is time to access your development environment. Right click on below 'Developer Workspace' button and open it in a new tab, to access your environment! 
 
-[![dev](codenvy-contribute.svg)](http://129.157.179.180/dashboard/#/ide/che/Blue)
+[![dev](codenvy-contribute.svg)](http://129.144.146.233/dashboard/#/ide/che/Blue)
 
 You should now have access to something similair as below, make sure that your project in the Project Explorer matches the color of your squad.
 
